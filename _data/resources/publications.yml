@@ -4,7 +4,7 @@
   source: DFRWS EU
   source_url: https://www.dfrws.org
   date: 2015-03-23
-  url: https://www.dfrws.org/sites/default/files/session-files/paper-leveraging_cybox_to_standardize_representation_and_exchange_of_digital_forensic_information.pdf
+  url: https://www.dfrws.org/sites/default/files/session-files/pres-leveraging_cybox_to_standardize_representation_and_exchange_of_digital_forensic_information.pdf
 - title: Leveraging CybOX to Standardize Representation and Exchange of Digital Forensic Information
   desc: This work summarizes the strengths and weaknesses of prior schemas, and defines an open-source schema called DFAX and underlying UCO ontology for representing and exchanging digital forensic information.
   type: Publication
@@ -25,7 +25,7 @@
   source: DFRWS
   source_url: https://www.dfrws.org
   date: 2017-08-06
-  url: http://dfrws.org/conferences/dfrws-usa-2017/sessions/pull-it-together-enabling-interoperability-digital-forensic
+  url: https://github.com/dfrws/papers/blob/master/2017%20USA/2017_USA_pres_pull_it_together_enabling_interoperability_of_digital_forensic_systems_using_a_standard_representation_and_supporting_api.pdf
 - title: The Evolution of Expressing and Exchanging Cyber-Investigation Information in a Standardized Form
   desc: The CASE specification language and UCO ontology are a rational progression from the foundational work on Digital Forensic Analysis eXpression (DFAX).
   type: Publication
@@ -33,12 +33,13 @@
   source_url: https://link.springer.com/book/10.1007/978-3-319-74872-6
   date: 2018-06-27
   url: https://link.springer.com/chapter/10.1007%2F978-3-319-74872-6_4
-- title: Pulling It Together
+- title: Pull It Together
   desc: Enabling Interoperability of Digital Forensic Systems Using a Standard Representation and Supporting API
   type: Presentation
   source: EU Evidence Project
   source_url: http://www.evidenceproject.eu/final-conference.html#Summary
   date: 2016-09-29
+  url: https://drive.google.com/open?id=1YvCngF3WOPtwp116Bm6Ez5MchG5mpy6xnCNvdWmo9k8
 - title: Advancing coordinated cyber-investigations and tool interoperability using a community developed specification language
   desc: The foundations of CASE are provided in "Advancing coordinated cyber-investigations and tool interoperability using a community developed specification language," Journal of Digital Investigation (Issue 22, Sept 2017).
   type: Publication
